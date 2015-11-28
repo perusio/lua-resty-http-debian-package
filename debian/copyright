@@ -1,0 +1,19 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: lua-resty-http
+Upstream-Contact: António P. P. Almeida <appa@perusio.net>
+Source: https://github.com/pintsized/lua-resty-http
+
+Files: *
+Copyright: 2013-2015 James Hurst <james@pintsized.co.uk>
+License: BSD
+
+Files: */debian
+Copyright: 2015 António P. P. Almeida <appa@perusio.net>
+License: BSD
+
+License: BSD
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the BSD license.
+ .
+ On Debian systems, the complete text of the BSD license in
+ '/usr/share/common-licenses/BSD'.

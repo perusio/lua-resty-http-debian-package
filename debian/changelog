@@ -1,0 +1,5 @@
+lua-resty-http (0.06-perusio.1.0) unstable; urgency=medium
+
+  * Initial release.
+
+ -- António P. P. Almeida <appa@perusio.net>  Fri, 27 Nov 2015 23:52:48 +0100
